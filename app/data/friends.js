@@ -41,16 +41,16 @@ var friendsArray = [
 	  "photo":"https://www.batmanarkhamknight.com/assets/uploads/53b1cda300f1a.jpg",
 	  "gender":"male",
 	  "scores":[
-	     4,
-	     5,
-	     3,
-	     3,
-	     4,
-	     5,
 	     1,
-	     4,
-	     3,
-	     5
+	     1,
+	     1,
+	     1,
+	     1,
+	     1,
+	     1,
+	     1,
+	     1,
+	     1
 	   ]
 	},
 	{
