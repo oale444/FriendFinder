@@ -4,24 +4,24 @@
 var friendsArray = [
 	{
 	  "name":"Barry Allen",
-	  "photo":"https://heroichollywood.b-cdn.net/wp-content/uploads/2017/08/the-flash-628-1.jpg?x42694",
+	  "photo":"https://media.melty.fr/article-3525879-raw/the-flash-knows.gif",
 	  "gender":"male",
 	  "scores":[
 	     5,
-	     1,
-	     4,
-	     4,
 	     5,
-	     1,
-	     2,
 	     5,
-	     4,
-	     1
+	     5,
+	     5,
+	     5,
+	     5,
+	     5,
+	     5,
+	     5
 	   ]
 	},
 	{
-	  "name":"Pamela Anderson",
-	  "photo":"https://i.pinimg.com/564x/08/d9/0c/08d90c139c9b18f3b67a24d31cf2fe26.jpg",
+	  "name":"Maleficient",
+	  "photo":"https://www.bowsboutiques.com/blog/wp-content/uploads/2016/10/vv.gif",
 	  "gender":"female",
 	  "scores":[
 	     1,
@@ -38,7 +38,7 @@ var friendsArray = [
 	},
 	{
 	  "name":"Batman",
-	  "photo":"https://www.batmanarkhamknight.com/assets/uploads/53b1cda300f1a.jpg",
+	  "photo":"https://1001cachchoi.com/wp-content/uploads/2017/07/khac-che-batman-1-compressed.jpg",
 	  "gender":"male",
 	  "scores":[
 	     1,
@@ -55,7 +55,7 @@ var friendsArray = [
 	},
 	{
 	  "name":"Aqua-Man",
-	  "photo":"http://digitalspyuk.cdnds.net/17/46/980x457/gallery-1510743990-aquaman-lake-justice-league-jason-momoa.jpg",
+	  "photo":"https://78.media.tumblr.com/e99a9ccf3281234fb3c5c997970766dc/tumblr_oxj986SRNH1u1b7c5o1_r2_500.gif",
 	  "gender":"male",
 	  "scores":[
 	     2,
@@ -70,26 +70,9 @@ var friendsArray = [
 	     3
 	   ]
     },
-    {
-        "name":"Michael Jackson",
-        "photo":"https://vignette.wikia.nocookie.net/villains/images/b/b4/Michael-THE-THRILLER-Jackson-michael-jackson-19046726-1146-1280.jpg/revision/latest?cb=20161014224449",
-        "gender":"male",
-        "scores":[
-           4,
-           4,
-           4,
-           4,
-           4,
-           4,
-           4,
-           4,
-           4,
-           4
-         ]
-      },
       {
         "name":"Spider-Man",
-        "photo":"http://t1.gstatic.com/images?q=tbn:ANd9GcQVzjsQN4VSZaWDXWYf1dCLQ6fU3ArTWTMh9fwmYcMke_RsOgP6",
+        "photo": "https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/53602a15e4b0a78001c4f181/1398811158521/?format=750w",
         "gender":"male",
         "scores":[
            2,
@@ -159,3 +142,4 @@ var friendsArray = [
 
 // Set up table to be accessible to other files using require.
 module.exports = friendsArray;
+

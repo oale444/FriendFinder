@@ -24,7 +24,7 @@ module.exports = function (app) {
             if (you.gender != friendsTable[i].gender) {
                  {
 
-                    currentFriendScore = currentFriendScore + Math.abs(friendsTable[i].scores[j] - you.scores[j]);
+                    currentFriendScore += Math.abs(friendsTable[i].scores[i] - you.scores[i]);
                 }
                 if (currentFriendScore <= newFriendScore) {
                     newFriend = i;
