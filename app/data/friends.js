@@ -89,7 +89,7 @@ var friendsArray = [
       },
       {
         "name":"Wonder-Woman",
-        "photo":"https://www.dccomics.com/sites/default/files/Movies-Gallery_JusticeLeague2017_WW_59f8be1fcea248.19685240.jpg",
+        "photo":"https://cdn.movieweb.com/img.news.tops/NEcbIuskJbfofe_2_b/Wonder-Woman-2-Gal-Gadot-Return-No-Brett.jpg",
         "gender":"female",
         "scores":[
            5,
