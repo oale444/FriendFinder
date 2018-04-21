@@ -22,7 +22,7 @@ module.exports = function (app) {
         for (i = 0; i < friendsTable.length; i++) {
 
             if (you.gender != friendsTable[i].gender) {
-                for (j = 0; j < you.scores.length; j++) {
+                 {
 
                     currentFriendScore = currentFriendScore + Math.abs(friendsTable[i].scores[j] - you.scores[j]);
                 }
