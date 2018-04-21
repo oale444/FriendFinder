@@ -3,8 +3,8 @@
 
 var friendsArray = [
 	{
-	  "name":"Mark Zuckerberg",
-	  "photo":"https://specials-images.forbesimg.com/imageserve/59d5062131358e542c034eb7/416x416.jpg?background=000000&cropX1=419&cropX2=1409&cropY1=53&cropY2=1044",
+	  "name":"Barry Allen",
+	  "photo":"https://heroichollywood.b-cdn.net/wp-content/uploads/2017/08/the-flash-628-1.jpg?x42694",
 	  "gender":"male",
 	  "scores":[
 	     5,
@@ -20,8 +20,8 @@ var friendsArray = [
 	   ]
 	},
 	{
-	  "name":"JK Rowling",
-	  "photo":"https://specials-images.forbesimg.com/imageserve/593b25aaa7ea434078d4f4c9/416x416.jpg?background=000000&cropX1=146&cropX2=1937&cropY1=99&cropY2=1890",
+	  "name":"Pamela Anderson",
+	  "photo":"https://i.pinimg.com/564x/08/d9/0c/08d90c139c9b18f3b67a24d31cf2fe26.jpg",
 	  "gender":"female",
 	  "scores":[
 	     1,
@@ -37,8 +37,8 @@ var friendsArray = [
 	   ]
 	},
 	{
-	  "name":"James Patterson",
-	  "photo":"https://specials-images.forbesimg.com/imageserve/593b23a0a7ea434078d4f438/416x416.jpg?background=000000&cropX1=1365&cropX2=3093&cropY1=164&cropY2=1891",
+	  "name":"Batman",
+	  "photo":"https://www.batmanarkhamknight.com/assets/uploads/53b1cda300f1a.jpg",
 	  "gender":"male",
 	  "scores":[
 	     4,
@@ -54,8 +54,8 @@ var friendsArray = [
 	   ]
 	},
 	{
-	  "name":"Johnny Depp",
-	  "photo":"https://specials-images.forbesimg.com/imageserve/577fc7174bbe6f31cdfaf004/416x416.jpg?background=000000&cropX1=58&cropX2=657&cropY1=24&cropY2=623",
+	  "name":"Aqua-Man",
+	  "photo":"http://digitalspyuk.cdnds.net/17/46/980x457/gallery-1510743990-aquaman-lake-justice-league-jason-momoa.jpg",
 	  "gender":"male",
 	  "scores":[
 	     2,
@@ -72,7 +72,7 @@ var friendsArray = [
     },
     {
         "name":"Michael Jackson",
-        "photo":"https://www.billboard.com/files/styles/article_main_image/public/media/michael-jackson-Victory-Tour-July-1984-billboard-1548.jpg",
+        "photo":"https://vignette.wikia.nocookie.net/villains/images/b/b4/Michael-THE-THRILLER-Jackson-michael-jackson-19046726-1146-1280.jpg/revision/latest?cb=20161014224449",
         "gender":"male",
         "scores":[
            4,
@@ -88,9 +88,9 @@ var friendsArray = [
          ]
       },
       {
-        "name":"Rhianna",
-        "photo":"https://specials-images.forbesimg.com/imageserve/593b2af64bbe6f1b730b696f/416x416.jpg?background=000000&cropX1=317&cropX2=2271&cropY1=127&cropY2=2081",
-        "gender":"female",
+        "name":"Spider-Man",
+        "photo":"http://t1.gstatic.com/images?q=tbn:ANd9GcQVzjsQN4VSZaWDXWYf1dCLQ6fU3ArTWTMh9fwmYcMke_RsOgP6",
+        "gender":"male",
         "scores":[
            2,
            3,
@@ -102,6 +102,57 @@ var friendsArray = [
            4,
            5,
            1
+         ]
+      },
+      {
+        "name":"Wonder-Woman",
+        "photo":"https://www.dccomics.com/sites/default/files/Movies-Gallery_JusticeLeague2017_WW_59f8be1fcea248.19685240.jpg",
+        "gender":"female",
+        "scores":[
+           5,
+           5,
+           4,
+           5,
+           1,
+           2,
+           3,
+           4,
+           2,
+           3
+         ]
+      },
+      {
+        "name":"Superman",
+        "photo":"https://buhomag-cms.imgix.net/wp-content/uploads/2017/10/09073541/superman-liga-de-la-justicia-1.jpg?auto=compress,format",
+        "gender":"male",
+        "scores":[
+           1,
+           2,
+           3,
+           4,
+           5,
+           1,
+           2,
+           3,
+           4,
+           5
+         ]
+      },
+      {
+        "name":"Captain Jack Sparrow",
+        "photo":"https://am22.akamaized.net/tms/cnt/uploads/2016/06/pirates-of-the-caribbean_640x480_41447300092.jpg",
+        "gender":"male",
+        "scores":[
+           3,
+           3,
+           3,
+           3,
+           3,
+           3,
+           3,
+           3,
+           3,
+           3
          ]
       }
 ];
