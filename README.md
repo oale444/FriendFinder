@@ -1,6 +1,7 @@
 # FriendFinder
 A dating app that matches you to a famous character. 
-I used html, css, bootstrap, jQuery, node, express, body-parser. 
+I used html, css, bootstrap, jQuery, node, express, body-parser.
+Deployed with Heroku
 
 # Rules
 Answer the survey and get matched!
